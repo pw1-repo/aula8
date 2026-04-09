@@ -1,3 +1,5 @@
+![](/public/images/cover_banner.svg)
+
 # Programação Web 1
 Prof. José Roberto Bezerra
 
